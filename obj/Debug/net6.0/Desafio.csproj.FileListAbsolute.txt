@@ -1,0 +1,15 @@
+C:\Users\Tacila\Desktop\Desafio\bin\Debug\net6.0\Desafio.exe
+C:\Users\Tacila\Desktop\Desafio\bin\Debug\net6.0\Desafio.deps.json
+C:\Users\Tacila\Desktop\Desafio\bin\Debug\net6.0\Desafio.runtimeconfig.json
+C:\Users\Tacila\Desktop\Desafio\bin\Debug\net6.0\Desafio.dll
+C:\Users\Tacila\Desktop\Desafio\bin\Debug\net6.0\Desafio.pdb
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.AssemblyInfo.cs
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.dll
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\refint\Desafio.dll
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.pdb
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\Desafio.genruntimeconfig.cache
+C:\Users\Tacila\Desktop\Desafio\obj\Debug\net6.0\ref\Desafio.dll
