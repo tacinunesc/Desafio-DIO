@@ -24,9 +24,7 @@ namespace DesafioFundamentos.Models
             string placaADD = Console.ReadLine();
             veiculos.Add(placaADD);
             
-            Console.WriteLine("Digite o tipo de veículo:");
-            string tipoVei = Console.ReadLine();
-            veiculos.Add(tipoVei);
+           
         }
 
         public void RemoverVeiculo()
@@ -67,8 +65,8 @@ namespace DesafioFundamentos.Models
             if (veiculos.Any())
             {
                 Console.WriteLine("Os veículos estacionados são:");
-                // TODO: Realizar um laço de repetição, exibindo os veículos estacionados
-                // *IMPLEMENTE AQUI*
+                // Realiza um laço de repetição, exibindo os veículos estacionados
+                
                 foreach(string i in veiculos){
                     Console.WriteLine(i);
                 }
